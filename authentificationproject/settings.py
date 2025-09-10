@@ -144,6 +144,6 @@ LOGIN_URL = 'login'
 EMAIL_HOST = 'smtp.gmail.com'
 EMAIL_PORT = 465
 EMAIL_USE_SSL = True
-EMAIL_HOST_USER = "houchiloictchoula@gmail.com"
+EMAIL_HOST_USER = "user@gmail.com"
 EMAIL_HOST_PASSWORD = "goole password application "      
                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                             
